@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Lucas Culley
+#### Software Engineer, specializing in 🕋 backend and ☁️ cloud development
+#### 🎮 Gamer, working on game dev for personal projects
+#### 💪 Currently looking for work!
 
 <!--
 **feverbrew/Feverbrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
