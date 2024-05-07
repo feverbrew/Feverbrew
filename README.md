@@ -1,7 +1,7 @@
 <h1>Hi there 👋 I'm Lucas Culley</h1>
 <p style="text-align: center;"> Software Engineer, specializing in 🕋 backend and ☁️ cloud development </p>
 <p style="text-align: center;"> 🎮 Gamer, working on game dev for personal projects </p>
-<p style="text-align: center;"> 💪 Currently looking for work! </p>
+<p style="text-align: center;"> 💪 Currently working on AI training with DataAnnotation </p>
 
 <!--
 **feverbrew/Feverbrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
